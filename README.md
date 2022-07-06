@@ -58,3 +58,19 @@
     const numbers = [22, 15, 1114, 416, 37, 4]
     sum(numbers) // 1608
     ```
+    
+ 8. Write a function named `noVowel` that takes an array of strings and returns an array of strings where all of the vowels have been turned into an x. 
+    
+    ```jsx
+    noVowel(animals) // ['chxxtxh', 'dxg', 'cxt', 'dxdxbxrd', 'bxxr','dxlphxn']
+    ```
+ 9. Write a function named `concatStrings` that takes an array of words and returns a sentence (single string) with all the element strings concatenated together
+    
+    ```jsx
+    concatStrings(animals) // "cheetah dog cat dodobird bear dolphin"
+    ```
+10. Write a function named `allFour` that takes an array of strings and returns true if all of the strings are a length of 4. 
+    
+    ```jsx
+    allFour(animals) // false
+    ```
